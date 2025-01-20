@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - [![GitHub Uknow](https://img.shields.io/github/followers/cream-sec?label=follower%20github&style=flat-square)](https://github.com/cream-sec)
 
 
-<img align='right' src="https://profile-counter.glitch.me/cream-sec/count.svg" width="200">
+<img align='left' src="https://profile-counter.glitch.me/cream-sec/count.svg" width="200">
